@@ -1,16 +1,16 @@
 {
   "name": "angular-typing-animator",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": "Naran Mistry <naranmistry.business@outlook.com>",
   "description": "Angular 13 Typing Animator",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naranmistry/angular-typing-animation.git"
+    "url": "git+https://github.com/naranmistry/angular-typing-animator"
   },
   "bugs": {
-    "url": "https://github.com/naranmistry/angular-typing-animation/issues"
+    "url": "https://github.com/naranmistry/angular-typing-animator/issues"
   },
-  "homepage": "https://github.com/naranmistry/angular-typing-animation#readme",
+  "homepage": "https://github.com/naranmistry/angular-typing-animator#readme",
   "keywords": [
     "angular 13",
     "angular",
