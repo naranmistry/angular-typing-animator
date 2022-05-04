@@ -1,0 +1,31 @@
+{
+  "name": "angular-typing-animator",
+  "version": "0.0.8",
+  "author": "Naran Mistry <naranmistry.business@outlook.com>",
+  "description": "Angular 13 Typing Animator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naranmistry/angular-typing-animation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naranmistry/angular-typing-animation/issues"
+  },
+  "homepage": "https://github.com/naranmistry/angular-typing-animation#readme",
+  "keywords": [
+    "angular 13",
+    "angular",
+    "animation",
+    "typing effect",
+    "cursor typing",
+  ],
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "rxjs": "~7.5.0"
+  }
+}
